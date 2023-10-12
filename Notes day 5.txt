@@ -1,0 +1,15 @@
+Co mi nejde:
+
+Arrays
+Chybí: Reverse (vím princip) a DiagonalMatrix
+
+Středa
+Party indicator
+Drawing exercises
+
+Functions
+Všechny bicákový cvičení - nemůžu s nimi hnout
+
+
+Ostatní
+Pokud mi nějaký cvičení (například ty bicákový) nepůjde, tak to hodit do GPT a získaný kód se snažit pochopit zpětně. Důležité je rozumět zadání, vymyslet řešení, rozumět tomu jak to funguje, o co tam jde, principům a metodám. Ne jen slepě kopírovat. Není potřeba všechno vypočítat "ručně", to bych nesměl používat ani kalkulačku jinak..
